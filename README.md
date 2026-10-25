@@ -1,1 +1,5 @@
-# Pong-Game
+# AUTHOR SHASHANK HEGDE
+# INSTITUTE: MOODLAKATTE INSTITUTE IF TECHNOKIGY
+
+
+PROJECT ON: pong game using python turtle
